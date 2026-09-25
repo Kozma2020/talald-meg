@@ -1,7 +1,7 @@
 ## Találd Meg - Valós idejű multiplayer kártyajáték
 
 
-Webes, többjátékos kártyajáték a klasszikus Dobble szabályai alapján. A projekt a Szegedi Tudományegyetem (SZTE TTIK) programtervező informatikus szakdolgozati munkájaként készül. A kártyák szimbólumkiosztását egy véges projektív sík generáló algoritmus biztosítja.
+Webes, többjátékos kártyajáték a klasszikus Dobble szabályai alapján. A projekt a Szegedi Tudományegyetem (SZTE TTIK) programtervező informatikus szakdolgozati munkájaként készül. 
 
 ---
 
